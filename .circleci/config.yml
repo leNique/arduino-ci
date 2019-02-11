@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  build-linux-default:
+  build-arduino-default:
     machine: true
     steps:
       - checkout
@@ -18,4 +18,4 @@ workflows:
   version: 2
   build:
     jobs:
-      - build-linux-default
+      - build-arduino-default
