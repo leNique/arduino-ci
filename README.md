@@ -8,7 +8,7 @@ Repo for testing continuous integration options
 
 ## CircleCI
 
-[![CircleCI](https://circleci.com/gh/andrewpmiller/arduino-ci.svg?style=svg)](https://circleci.com/gh/andrewpmiller/arduino-ci)
+[![CircleCI](https://circleci.com/gh/sleepdefic1t/arduino-ci.svg?style=svg)](https://circleci.com/gh/sleepdefic1t/arduino-ci)
 
 ## Notes and Things
 
